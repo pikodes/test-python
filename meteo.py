@@ -15,4 +15,3 @@ elif note>=10:
       print("mention passable")
 else:  
       print("insuffisant")                    
-wsl --install
